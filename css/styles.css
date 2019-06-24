@@ -291,6 +291,7 @@ nav h1 a {
 .inside .leftchild, .rightchild{
 	width: 45%;
 	margin: 1%;
+	tecxt-align: center;
 }
 .inside .leftchild img{
 	width: 45%;
